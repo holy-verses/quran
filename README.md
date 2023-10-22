@@ -1,1 +1,1 @@
-This repo contains Quran Translations.
+This repo contains Quran Translations used by holy-verses.com
