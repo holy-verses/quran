@@ -1,0 +1,25 @@
+{
+  "name": "quran",
+  "version": "1.0.0",
+  "description": "Quran Verses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holy-verses/quran.git"
+  },
+  "keywords": [
+    "Quran",
+    "verses",
+    "holy",
+    "verses"
+  ],
+  "author": "Holy Verses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holy-verses/quran/issues"
+  },
+  "homepage": "https://github.com/holy-verses/quran#readme"
+}
