@@ -1,5 +1,5 @@
 {
-  "name": "quran",
+  "name": "@holy-verses/quran",
   "version": "1.0.0",
   "description": "Translations of Quran Verses",
   "main": "index.js",
